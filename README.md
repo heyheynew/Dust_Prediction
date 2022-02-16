@@ -10,6 +10,6 @@ Pandas
 Matplotlib  
 
 # 3. Model
-![](/images/model.png)
+![](/images/model.png)  
 LSTM
 
